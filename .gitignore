@@ -1,0 +1,5 @@
+vendor/
+tmp/
+*.swp
+db/*.sqlite3
+log/
